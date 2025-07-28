@@ -7,6 +7,9 @@
       "RelativeMoniker": "D:0:0:{966FEB88-8EF2-4328-A76E-29EF50A52FF5}|program.vcxproj|solutionrelative:Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{84314845-FD89-43D3-9423-AB4182E31A41}|..\\Class4Th(Overflow \u0026 Underflow)\\Class4Th(Overflow \u0026 Underflow).vcxproj|C:\\Users\\User\\Desktop\\game\\Class4Th(Overflow \u0026 Underflow)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{373D840B-B9DB-4861-8ECA-F75AD99EC3EF}|..\\Class4Th(Bit)\\Class4Th(Bit).vcxproj|C:\\Users\\User\\Desktop\\game\\Class4Th(Bit)\\Souce.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -23,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Souce.c",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\game\\Class1Th (Compile)\\Souce.c",
               "RelativeDocumentMoniker": "..\\Class1Th (Compile)\\Souce.c",
@@ -40,7 +43,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\game\\Class2Th(Variable \u0026 Constant)\\Source.c",
               "RelativeDocumentMoniker": "..\\Class2Th(Variable \u0026 Constant)\\Source.c",
@@ -53,16 +56,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Souce.c",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\game\\Class4Th(Bit)\\Souce.c",
               "RelativeDocumentMoniker": "..\\Class4Th(Bit)\\Souce.c",
               "ToolTip": "C:\\Users\\User\\Desktop\\game\\Class4Th(Bit)\\Souce.c",
               "RelativeToolTip": "..\\Class4Th(Bit)\\Souce.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-07-28T16:49:20.147Z",
-              "EditorCaption": ""
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\game\\Class4Th(Overflow \u0026 Underflow)\\Source.c",
+              "RelativeDocumentMoniker": "..\\Class4Th(Overflow \u0026 Underflow)\\Source.c",
+              "ToolTip": "C:\\Users\\User\\Desktop\\game\\Class4Th(Overflow \u0026 Underflow)\\Source.c",
+              "RelativeToolTip": "..\\Class4Th(Overflow \u0026 Underflow)\\Source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-28T17:07:53.147Z"
             },
             {
               "$type": "Document",
@@ -72,7 +87,7 @@
               "RelativeDocumentMoniker": "Source.c",
               "ToolTip": "C:\\Users\\User\\Desktop\\game\\program\\Source.c",
               "RelativeToolTip": "Source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-07-27T15:04:07.571Z",
               "EditorCaption": ""

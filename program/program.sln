@@ -9,7 +9,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class1Th (Compile)", "..\Cl
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class2Th(Variable & Constant)", "..\Class2Th(Variable & Constant)\Class2Th(Variable & Constant).vcxproj", "{E9C24180-0FEA-4530-81C5-416B01E4EB2E}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class4Th(Bit)", "..\Class4Th(Bit)\Class4Th(Bit).vcxproj", "{373D840B-B9DB-4861-8ECA-F75AD99EC3EF}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class3Th(Bit)", "..\Class4Th(Bit)\Class4Th(Bit).vcxproj", "{373D840B-B9DB-4861-8ECA-F75AD99EC3EF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class4Th(Overflow & Underflow)", "..\Class4Th(Overflow & Underflow)\Class4Th(Overflow & Underflow).vcxproj", "{84314845-FD89-43D3-9423-AB4182E31A41}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,14 @@ Global
 		{373D840B-B9DB-4861-8ECA-F75AD99EC3EF}.Release|x64.Build.0 = Release|x64
 		{373D840B-B9DB-4861-8ECA-F75AD99EC3EF}.Release|x86.ActiveCfg = Release|Win32
 		{373D840B-B9DB-4861-8ECA-F75AD99EC3EF}.Release|x86.Build.0 = Release|Win32
+		{84314845-FD89-43D3-9423-AB4182E31A41}.Debug|x64.ActiveCfg = Debug|x64
+		{84314845-FD89-43D3-9423-AB4182E31A41}.Debug|x64.Build.0 = Debug|x64
+		{84314845-FD89-43D3-9423-AB4182E31A41}.Debug|x86.ActiveCfg = Debug|Win32
+		{84314845-FD89-43D3-9423-AB4182E31A41}.Debug|x86.Build.0 = Debug|Win32
+		{84314845-FD89-43D3-9423-AB4182E31A41}.Release|x64.ActiveCfg = Release|x64
+		{84314845-FD89-43D3-9423-AB4182E31A41}.Release|x64.Build.0 = Release|x64
+		{84314845-FD89-43D3-9423-AB4182E31A41}.Release|x86.ActiveCfg = Release|Win32
+		{84314845-FD89-43D3-9423-AB4182E31A41}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
