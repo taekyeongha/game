@@ -7,6 +7,9 @@
       "RelativeMoniker": "D:0:0:{966FEB88-8EF2-4328-A76E-29EF50A52FF5}|program.vcxproj|solutionrelative:Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{373D840B-B9DB-4861-8ECA-F75AD99EC3EF}|..\\Class4Th(Bit)\\Class4Th(Bit).vcxproj|C:\\Users\\User\\Desktop\\game\\Class4Th(Bit)\\Souce.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E9C24180-0FEA-4530-81C5-416B01E4EB2E}|..\\Class2Th(Variable \u0026 Constant)\\Class2Th(Variable \u0026 Constant).vcxproj|C:\\Users\\User\\Desktop\\game\\Class2Th(Variable \u0026 Constant)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -20,11 +23,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Souce.c",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\game\\Class1Th (Compile)\\Souce.c",
               "RelativeDocumentMoniker": "..\\Class1Th (Compile)\\Souce.c",
@@ -37,7 +40,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\game\\Class2Th(Variable \u0026 Constant)\\Source.c",
               "RelativeDocumentMoniker": "..\\Class2Th(Variable \u0026 Constant)\\Source.c",
@@ -50,13 +53,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Souce.c",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\game\\Class4Th(Bit)\\Souce.c",
+              "RelativeDocumentMoniker": "..\\Class4Th(Bit)\\Souce.c",
+              "ToolTip": "C:\\Users\\User\\Desktop\\game\\Class4Th(Bit)\\Souce.c",
+              "RelativeToolTip": "..\\Class4Th(Bit)\\Souce.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-28T16:49:20.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\game\\program\\Source.c",
               "RelativeDocumentMoniker": "Source.c",
               "ToolTip": "C:\\Users\\User\\Desktop\\game\\program\\Source.c",
               "RelativeToolTip": "Source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-07-27T15:04:07.571Z",
               "EditorCaption": ""
